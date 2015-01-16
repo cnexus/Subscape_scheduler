@@ -13,3 +13,5 @@
 </ol>
 
 <p>This program was built-from the ground up by me and Edward Liang (currently a student at Duke). Edward coded the core scheduling algorithm with some help from me, while I coded the rest of program including the UI, the schedule exporting components, and the integrated schedule file manager tool, as well as other goodies like the addition of the splash screen and the Mac-OSX UI theme.</p>
+
+<p>This program makes use of the <a href="http://jexcelapi.sourceforge.net/">JExcel API</a> to allow exporting of data to MS Excel files.</p>
