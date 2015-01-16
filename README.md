@@ -1,5 +1,7 @@
 <h1>SubScape Scheduling Software<h1>
 
+<p>This program makes use of the <a href="http://jexcelapi.sourceforge.net/">JExcel API</a> to allow exporting of data to MS Excel files.</p>
+
 <p>This project was the culmination project for my 10th grade year-long Java course. For this project, my team developed a fully-fledged, self-contained, custom software solution for the Magnet coordinator at Poolesville High School.</p>
 
 <p>The software was designed to schedule substitutes for days when large numbers of teachers would be performing other duties (magnet program screening).</p>
@@ -13,5 +15,3 @@
 </ol>
 
 <p>This program was built-from the ground up by me and Edward Liang (currently a student at Duke). Edward coded the core scheduling algorithm with some help from me, while I coded the rest of program including the UI, the schedule exporting components, and the integrated schedule file manager tool, as well as other goodies like the addition of the splash screen and the Mac-OSX UI theme.</p>
-
-<p>This program makes use of the <a href="http://jexcelapi.sourceforge.net/">JExcel API</a> to allow exporting of data to MS Excel files.</p>
