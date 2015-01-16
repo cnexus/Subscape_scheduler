@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ liquidlnf.jar rtextpr.jar jxl.jar
+Class-Path: .
+Rsrc-Main-Class: com.acme.gui.SubScapeGUI
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+SplashScreen-Image: images/splash.jpg
+
+
